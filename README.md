@@ -99,10 +99,14 @@
 
 # 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/durunef)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durunef)
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=durunef&icon=0&color=0)](https://visitcount.itsvg.in)
+[[](https://visitcount.itsvg.in/api?id=durunef&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
