@@ -46,10 +46,9 @@
         <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
         <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" alt="Keras"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-        <img src="https://img.shields.io/badge/Haystack-2575FC?style=flat-square&logo=haystack&logoColor=white" alt="Haystack"/>
+        <img src="https://img.shields.io/badge/Haystack-0EAF9C?style=flat-square&logo=haystack&logoColor=white" alt="Haystack"/>
       </td>
     </tr>
     <tr>
